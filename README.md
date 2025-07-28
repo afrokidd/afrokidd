@@ -1,4 +1,4 @@
-- 👋 Hi, I’m champa rautela
+- 👋 Hi
 - 👀 I’m interested in learning DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
